@@ -18,7 +18,7 @@
 
 ## Как использовать
 
-1. Скачайте **Danrex Sorter.exe** из раздела [Releases](https://github.com/DanrexCorp/danrex-sorter/releases)
+1. Скачайте **Danrex Sorter.exe** 
 2. Запустите (двойной клик)
 3. Нажмите «Выбрать папку» и укажите нужную
 4. Нажмите «Сортировать»
